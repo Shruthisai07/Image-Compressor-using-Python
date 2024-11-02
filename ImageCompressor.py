@@ -1,4 +1,4 @@
-# install pillow by typing pip install pillow in cmd prompt and press enter
+# install pillow by typing pip install pillow in cmd prompt and press enter, then run the below code in vscode.
 from PIL import Image
 import os
 
